@@ -1,0 +1,18 @@
+[submodule "aaiot-lib"]
+	path = aaiot-lib
+	url = https://github.com/SEI-TAS/aaiot-lib.git
+[submodule "ace-6lbr"]
+	path = ace-6lbr
+	url = https://github.com/SEI-TAS/ace-6lbr.git
+[submodule "ace-rs"]
+	path = ace-rs
+	url = https://github.com/SEI-TAS/ace-rs.git
+[submodule "ace-client"]
+	path = ace-client
+	url = https://github.com/SEI-TAS/ace-client.git
+[submodule "ace-as"]
+	path = ace-as
+	url = https://github.com/SEI-TAS/ace-as.git
+[submodule "ace-java"]
+	path = ace-java
+	url = https://bitbucket.org/marco-tiloca-sics/ace-java.git
