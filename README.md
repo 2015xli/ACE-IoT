@@ -1,5 +1,5 @@
 The SEI ACE Implementation for Constrained and Unconstrained Resource Servers consists of five repositories:
-* [Client](ace-client) ([Original](https://github.com/SEI-TTG/ace-client))
+* [Client](https://github.com/SEI-TTG/ace-client)
 * [Authorization Server](https://github.com/SEI-TTG/ace-as)
 * [Unconstrained Resource Server](https://github.com/SEI-TTG/ace-rs)
 * [Constrained Resource Server](https://github.com/SEI-TTG/ace-6lbr) - token revocation functionality under development
