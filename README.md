@@ -1,4 +1,4 @@
-Introduction [video](ACE-IoT.mp4) by the project owner Prof. Grace A. Lewis - downloaded from [youtube](https://www.youtube.com/watch?v=RaAioL1Kpno).
+Introduction [video](files/ACE-IoT.mp4) by the project owner Prof. Grace A. Lewis - downloaded from [youtube](https://www.youtube.com/watch?v=RaAioL1Kpno).
 
 The SEI ACE Implementation for Constrained and Unconstrained Resource Servers consists of five repositories:
 * [Client](https://github.com/SEI-TTG/ace-client)
